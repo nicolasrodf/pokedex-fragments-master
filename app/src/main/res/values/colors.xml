@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="display_option_selected">#d35400</color>
+    <color name="display_option_not_selected">#bdc3c7</color>
+    <color name="fragment_stats_hp">#F781D8</color>
+    <color name="fragment_stats_attack">#FF0040</color>
+    <color name="fragment_stats_defense">#04B45F</color>
+    <color name="fragment_stats_speed">#FF8000</color>
+
+</resources>
